@@ -31,7 +31,6 @@ SITES = [
     "https://www.concierto.cl/",
     "https://www.futuro.cl/",
     "https://duna.cl/",
-    "https://www.pudahuel.cl/",
     "https://elconquistadorfm.net/",
     "https://www.adnradio.cl/",
     "https://www.radioagricultura.cl/",
